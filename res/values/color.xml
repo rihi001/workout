@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <color name="background">#4f1b1b00</color>
+     <color name="background_second">#4f1b1b00</color>
+     <color name="bleu">#1075bd</color>
+     <color name="gris_arriere">#f4f4f4</color>  
+     <color name="gris_fonce">#cccccc</color>
+     <color name="orange2">#7E4E10</color>
+     <color name="orange">#f9932d</color>
+     <color name="blanc">#FFFFFF</color>   
+     <color name="noir">#000000</color>   
+     <color name="gris">#a9a9a9</color>  
+     <color name="prpose">#c0c0c0</color> 
+     <color name="skyp">#00bfff</color>   
+     <color name="bleu_ciel_j">#c5d2db</color>  
+     <color name="bleu_ciel_j2">#F0F0F0</color> 
+     <color name="orange3">#f8b165</color>
+     <color name="button_color">#00304A</color>
+     <color name="bleu_marine">#4187A6</color>  
+     <color name="gris_j">#858585</color>
+     <color name="gris_j2">#A8B2BA</color>   
+     <color name="bleu_j">#4189B5</color>
+     <color name="gris_light">#F5F5F5</color>
+     <color name="bleu_facebook">#456cb1</color>
+     <color name="bleu_twitter">#45b0e3</color>
+     <color name="rouje_google">#d84937</color>
+      
+         
+</resources>
